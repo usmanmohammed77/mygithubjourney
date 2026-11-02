@@ -1,2 +1,1 @@
-Assalamu Alaikum
-Warahmatullah
+#Table 1
