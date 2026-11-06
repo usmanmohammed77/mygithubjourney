@@ -1,8 +1,8 @@
 # ABOUT THE PAGE
-> This page contain all what Muhammad Usman learned in his GitHub learning journey in his first month of his Industrial Training at GeekIn Silocon Rubi, Gombe State University, it includes the tables of lectures hours and self treaning learning percentage table.
+> This page contain all what Muhammad Usman learned in his GitHub learning journey in his first month of his Industrial Training at GeekIn Silocon Rubi, Gombe State University, it includes the tables of lectures hours and self-practice learning percentage.
 
 
-# Lectures Topic and Hours Covered.
+# Lectures Topics and Hours Covered.
 
 |SN|TOPIC|HOURS COVERED|
 |---|---|---|
@@ -29,20 +29,21 @@
 
 ---
 
-## GITHUB LESSONS COVERED DURING MY FIRST MONTH OF IT
+## GITHUB LESSONS COVERED DURING MY FIRST MONTH OF INDUSTRIAL TRAINING.
 
-[INTRODUCTION TO GIT, GITHUB AND REPOSITORY](files/lesson1.pdf)
+[INTRODUCTION TO GIT, GITHUB AND REPOSITORY](github_class/lessonone.pdf)
 
-[GITHUB CONCEPTS AND TEAM COLLABORATION](files/lesson1.pdf)
+[GITHUB CONCEPTS AND TEAM COLLABORATION](github_class/lessontwo.pdf)
 
-[MERGE CONFLICT AND HOW TO RESOLVE IT](files/lesson1.pdf)
+[MERGE CONFLICT AND HOW TO RESOLVE IT](github_class/lessonthree.pdf)
 
-[GIT COMMANDS AND USING THE TERMINAL TO SAVE COMMITS](files/lesson1.pdf)
+[GIT COMMANDS AND USING THE TERMINAL TO SAVE COMMITS](github_class/lessonfour.pdf)
 
-[CREATING FOLDERS, ADDING FILES, WRITING README AND USING MARKDOWN](files/lesson1.pdf)
+[CREATING FOLDERS, ADDING FILES, WRITING README AND USING MARKDOWN](github_class/lessonfive.pdf)
 
-[HOSTING A WEBSITE ON GITHUB AND USING A CUSTOM DOMAIN NAME](files/lesson1.pdf)
+[HOSTING A WEBSITE ON GITHUB AND USING A CUSTOM DOMAIN NAME](github_class/lessonsix.pdf)
 
 ---
 
-> ## TAHNK YOU FOR LISTENING.
+> ## THE END.
+> ### SPECIAL THANKS TO OUR TUTOR ADAMSGEEKY
